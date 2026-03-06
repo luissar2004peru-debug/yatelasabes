@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.8),
+        rgba(0,0,0,0.8)
+    ),
+    url("imagenes/fondo\ registro.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links a{
+    margin-left: 20px;
+    text-decoration: none;}
+
+
+h1{font-family: "Gloria Hallelujah", cursive;
+    color: rgb(255, 255, 255);
+    text-align: center;}
+
+hr{color: rgb(255, 255, 255);}
+
+h6{color: rgb(255, 255, 255);
+font-family: "Gloria Hallelujah", cursive;
+text-align: center;}
+p{color: rgb(255, 255, 255);}
+h4{font-family: "Gruppo", sans-serif;
+    color: rgb(255, 255, 255);}

@@ -1,0 +1,42 @@
+body{background: linear-gradient(
+        rgba(0, 0, 0, 0.7),
+        rgba(0, 0, 0, 0.7)),
+    url("imagenes/fondo\ catalogo.jpg");
+    background-size: cover;
+    background-position: center;}
+
+.menu{display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+.links a{margin-left: 20px;
+    text-decoration: none;}
+
+
+h1{font-family: "Gloria Hallelujah", cursive;
+    color: rgb(255, 255, 255);}
+
+h4{font-family: "Gruppo", sans-serif;
+    color: rgb(255, 255, 255);}    
+
+p{color: rgb(255, 255, 255);}
+
+hr{color: rgb(255, 255, 255);}
+
+.footer-contenido{
+display:flex;
+justify-content:space-between;
+padding:40px;}
+
+.contacto{
+width:45%;
+text-align:left;
+margin-left:150px;}
+
+.ubicacion{
+width:30%;
+text-align:left;}
+
+footer img{
+margin-top:10px;
+width:200px;}

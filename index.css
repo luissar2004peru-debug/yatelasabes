@@ -1,0 +1,32 @@
+body{background: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)),
+    url("imagenes/fondo\ cycle.jpg");
+    background-size: cover;
+    background-position: 35% 100%;
+    background-repeat: no-repeat;}
+
+.menu{display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+.links a{margin-left: 20px;
+    text-decoration: none;}
+
+
+h1{font-family: "Gloria Hallelujah", cursive;
+    color: rgb(255, 255, 255);}
+
+h6{color: rgb(255, 255, 255);
+font-family: "Gloria Hallelujah", cursive;
+text-align: center;}
+
+p{color: rgb(255, 255, 255);}
+
+h4{font-family: "Gruppo", sans-serif;
+    color: rgb(255, 255, 255);}
+
+    hr{color: rgb(255, 255, 255);}
+
+legend{font-family: "Rubik 80s Fade", system-ui;
+    color: rgb(255, 255, 255);}    
